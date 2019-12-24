@@ -8,3 +8,4 @@
 - https://avicoder.me/
 - https://hipotermia.pw/
 - https://nathandavison.com/
+- https://samcurry.net/blog/
