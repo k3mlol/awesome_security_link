@@ -5,6 +5,7 @@
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce
 - https://regilero.github.io/english/security/2019/04/24/security_jetty_http_smuggling/
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/
+- https://bertjwregeer.keybase.pub/2019-12-10%20-%20error_page%20request%20smuggling.pdf
 
 ### blog
 - https://avicoder.me/
