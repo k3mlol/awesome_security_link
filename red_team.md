@@ -8,3 +8,6 @@
 ### git
 
 ### devops
+
+### dump password
+- https://pentestlab.blog/2018/04/04/dumping-clear-text-credentials/amp/
