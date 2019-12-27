@@ -6,6 +6,10 @@
 - https://regilero.github.io/english/security/2019/04/24/security_jetty_http_smuggling/
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/
 - https://bertjwregeer.keybase.pub/2019-12-10%20-%20error_page%20request%20smuggling.pdf
+- https://lab.wallarm.com/race-condition-in-web-applications/
+- https://lab.wallarm.com/traditional-wafs-tell-a-lot-about-consumer-adoption/
+- https://lab.wallarm.com/graphql-batching-attack/
+
 
 ### blog
 - https://avicoder.me/
