@@ -9,6 +9,7 @@
 - https://lab.wallarm.com/race-condition-in-web-applications/
 - https://lab.wallarm.com/traditional-wafs-tell-a-lot-about-consumer-adoption/
 - https://lab.wallarm.com/graphql-batching-attack/
+- https://www.sec-down.com/wordpress/?p=809
 
 
 ### blog
