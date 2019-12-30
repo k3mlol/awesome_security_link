@@ -21,3 +21,4 @@
 - https://blog.nyangawa.me/
 - https://skeletonscribe.net/
 - http://www.harmj0y.net/blog/
+- https://media.ccc.de/b/congress/2019
